@@ -10,6 +10,8 @@
 
 
 
+[ThisIsLink For Another Page](this-is-another-page.md)
+
 
 
 ```php
@@ -24,9 +26,5 @@ echo $var, PHP_EOL;
 
 
 
-<figure><img src=".gitbook/assets/20230130_이석오류.png" alt=""><figcaption></figcaption></figure>
-
-
-
-## ComeHere
+ComeHere
 
